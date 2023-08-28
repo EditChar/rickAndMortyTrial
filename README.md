@@ -1,5 +1,5 @@
 # rickAndMortyTrial
-Trial Product Git <br/>
+
 -Fetch API. <br/>
 [RickAndMorty API](https://rickandmortyapi.com/api/episode) <br/>
 
